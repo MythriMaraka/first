@@ -5,3 +5,6 @@ This is my first repository
 
 
 First edit
+
+Other version
+Merge 2 files
